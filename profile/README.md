@@ -11,5 +11,7 @@ of our utilities and shared projects.
 > between earth and heaven.
 > [Read more about it.](https://www.bivrost.com/the-vikings-and-the-northern-lights-bridge/)
 
-Please review our [Code of Conduct](../CODE_OF_CONDUCT.md) and
-[Contributing Guidelines](../CODE_OF_CONDUCT.md).
+Please review our
+[Code of Conduct](https://github.com/bifravst/.github/blob/saga/CODE_OF_CONDUCT.md)
+and
+[Contributing Guidelines](https://github.com/bifravst/.github/blob/saga/CONTRIBUTING.md).
