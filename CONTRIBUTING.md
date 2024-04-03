@@ -6,6 +6,10 @@ team maintains. As a first step, see our
 
 ## Finding open issues
 
+> [!NOTE]  
+> You can find a list of all the open issues
+> [here](https://github.com/bifravst/help-wanted/issues/2).
+
 A list of issues marked with `help-wanted` is maintained in each projects issue
 list. These issues are good starting points for contributing to the project.
 Some of them require in-depth knowledge about the technology in use.

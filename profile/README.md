@@ -10,3 +10,6 @@ of our utilities and shared projects.
 > from the Nordic mythology and it refers to the bridge built by the gods
 > between earth and heaven.
 > [Read more about it.](https://www.bivrost.com/the-vikings-and-the-northern-lights-bridge/)
+
+Please review our [Code of Conduct](../CODE_OF_CONDUCT.md) and
+[Contributing Guidelines](../CODE_OF_CONDUCT.md).
